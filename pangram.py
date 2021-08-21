@@ -1,6 +1,7 @@
 a  = 'abcg'
 b = [i for i in a]
 #print(b)
+#
 
 str1 = 'abc pqr acd'
 str2 = [i for i in str1]

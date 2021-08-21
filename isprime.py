@@ -1,6 +1,7 @@
 #a = input(int('enter the number to check number is prime or not'))
 
 def isprime(a):
+    #
     if a<2:
         return False
         
@@ -14,6 +15,7 @@ def isprime(a):
         if (a%i == 0):
             return False
     return True
+
 
 def next_prime(n):
     while True:

@@ -1,5 +1,6 @@
 list_a = []
 a = int(input('enter the range : '))
+#
 def fib(n):
     if n == 1:
         return 1
